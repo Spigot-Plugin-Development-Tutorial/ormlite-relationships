@@ -1,0 +1,9 @@
+name: ormlite-relationships
+version: '${project.version}'
+main: me.kodysimpson.ormliterelationships.ORMLite_Relationships
+api-version: '1.20'
+commands:
+  createguild:
+    description: Creates a new guild
+  createachievements:
+    description: Creates some achievements
